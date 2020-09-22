@@ -1,4 +1,4 @@
-package leetcode.easy.happynumber.HappyNumber;
+package leetcode.easy.happynumber;
 
 import java.util.HashSet;
 
