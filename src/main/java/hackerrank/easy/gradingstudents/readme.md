@@ -1,4 +1,4 @@
 #Grading Student (Hackerrank Easy)
 
 
-######Code Question Link [Link] (https://www.hackerrank.com/challenges/grading/problem)
+######Code Question Link [Grading Student](https://www.hackerrank.com/challenges/grading/problem)
